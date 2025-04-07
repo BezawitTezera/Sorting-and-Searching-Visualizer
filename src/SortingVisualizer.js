@@ -386,6 +386,7 @@ const SortingVisualizer = () => {
             <span>Found</span>
           </div>
         </div>
+              <p>Bezawit Tezera 2025 </p>
         <p>© 2025 Sorting Visualizer</p>
       </footer>
     </div>
